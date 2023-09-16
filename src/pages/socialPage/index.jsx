@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import s from './styles.module.scss'
 import images from 'images'
 
@@ -43,12 +42,12 @@ export default function Main() {
         <div className={s.title}>Click Here For</div>
         <div className={s.links}>
           {linkData.map(({ field, link, image }, i) => (
-            <Link to={link} key={i} className={s.link} target='_blank'>
+            <a href={link} key={i} className={s.link} target='_blank' rel='noreferrer'>
               <div>
                 <img src={image} alt='' />
               </div>
               <div>{field}</div>
-            </Link>
+            </a>
           ))}
         </div>
         <div className={s.bottom}>
