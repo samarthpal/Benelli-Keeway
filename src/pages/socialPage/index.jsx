@@ -4,27 +4,27 @@ import images from 'images'
 const linkData = [
   {
     field: 'SHOWROOM REVIEWS',
-    link: '/',
+    link: 'https://g.page/r/CaiQRsNDp72wEB0/review',
     image: images.review
   },
   {
     field: 'WORKSHOP REVIEWS',
-    link: '/',
+    link: 'https://g.page/r/CXdxh39kBesYEB0/review',
     image: images.review
   },
   {
     field: 'INSTAGRAM',
-    link: '/',
+    link: 'https://instagram.com/benelli_keeway_delhi?igshid=MzRlODBiNWFlZA==',
     image: images.instagram
   },
   {
     field: 'FACEBOOK',
-    link: '/',
+    link: 'https://www.facebook.com/Benellikeewaydelhi?mibextid=MKOS29',
     image: images.facebook
   },
   {
     field: 'YOUTUBE',
-    link: '/',
+    link: 'https://youtube.com/@BenellikeewayDelhi?si=gt3YxaIwcvxcJGt9',
     image: images.youtube
   }
 ]
