@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SocialPresence/static/css/main.6e55f502.css",
+    "main.js": "/SocialPresence/static/js/main.75d7404c.js",
+    "static/media/back.png": "/SocialPresence/static/media/back.0f2457a1a78e93b29987.png",
+    "static/media/logo.png": "/SocialPresence/static/media/logo.a3bed418256a85bb78b2.png",
+    "static/media/youtube.png": "/SocialPresence/static/media/youtube.1ee2f39b02cee665a3e2.png",
+    "static/media/bike1.png": "/SocialPresence/static/media/bike1.3227773ff3d4f7480be3.png",
+    "static/media/bike2.png": "/SocialPresence/static/media/bike2.4a061364e5bec5d3ca9a.png",
+    "static/media/facebook.png": "/SocialPresence/static/media/facebook.0d6ca15b859dca340ad1.png",
+    "static/media/instagram.png": "/SocialPresence/static/media/instagram.c79c0d7ab601eda94c17.png",
+    "index.html": "/SocialPresence/index.html",
+    "main.6e55f502.css.map": "/SocialPresence/static/css/main.6e55f502.css.map",
+    "main.75d7404c.js.map": "/SocialPresence/static/js/main.75d7404c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e55f502.css",
+    "static/js/main.75d7404c.js"
+  ]
+}
